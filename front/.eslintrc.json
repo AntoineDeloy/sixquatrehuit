@@ -35,6 +35,8 @@
         "comma-dangle": "error",
         "indent": ["error", "tab"],
         "jsx-quotes": ["error", "prefer-single"],
-        "no-duplicate-imports": "error"
+        "no-duplicate-imports": "error",
+        "comma-style": ["error", "last"],
+        "semi": ["error", "always"]
     }
 }
